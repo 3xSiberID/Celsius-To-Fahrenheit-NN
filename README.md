@@ -13,9 +13,9 @@
 <h3 align="left">Project: Neural Network Celsius to Fahrenheit Converter</h3>
 
 <p>
-This is a simple neural network model built with TensorFlow and Keras to convert temperature from Celsius to Fahrenheit.<br>
-The model is trained on the formula-based dataset (F = 1.8 * C + 32) and can predict Fahrenheit values given Celsius inputs.<br>
-It is a great example to learn basic concepts of neural networks, training, and saving/loading models in Python.
+Ini adalah model jaringan saraf sederhana yang dibangun dengan TensorFlow dan Keras untuk mengonversi suhu dari Celsius ke Fahrenheit.<br>
+Model ini dilatih pada kumpulan data berbasis rumus (F = 1,8 * C + 32) dan dapat memprediksi nilai Fahrenheit berdasarkan input Celsius.<br>
+Ini adalah contoh yang bagus untuk mempelajari konsep dasar jaringan saraf, pelatihan, dan penyimpanan/pemuatan model dalam Python.
 </p>
 
 <h3 align="left">How to Use</h3>
