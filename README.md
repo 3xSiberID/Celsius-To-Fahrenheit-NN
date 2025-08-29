@@ -57,4 +57,12 @@ Ini adalah contoh yang bagus untuk mempelajari konsep dasar jaringan saraf, pela
 
 <br><br>
 
+---
+
+<h3 align="left">📜 License</h3>
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.  
+
+---
+
 ⭐️ From [3xSiberID](https://github.com/3xSiberID)
