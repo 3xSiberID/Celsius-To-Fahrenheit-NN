@@ -18,20 +18,20 @@ Model ini dilatih pada kumpulan data berbasis rumus (F = 1,8 * C + 32) dan dapat
 Ini adalah contoh yang bagus untuk mempelajari konsep dasar jaringan saraf, pelatihan, dan penyimpanan/pemuatan model dalam Python.
 </p>
 
-<h3 align="left">How to Use</h3>
+<h3 align="left">Cara Penggunaan</h3>
 <pre>
-1. Train the model by running the provided training notebook/script.
-2. Save the trained model in the latest Keras format (.keras).
-3. Load the model to make predictions on new Celsius inputs.
+1. Latih model dengan menjalankan buku notebook/script pelatihan yang disediakan.
+2. Simpan model yang telah dilatih dalam format Keras terbaru (.keras).
+3. Muat model untuk membuat prediksi pada input Celsius baru.
 </pre>
 
-<h3 align="left">Concepts Covered</h3>
+<h3 align="left">Konsep yang Dicakup</h3>
 <ul>
-  <li>Neural Network Basics (Neurons, Weights, Bias)</li>
-  <li>Model Training with Mean Squared Error Loss</li>
-  <li>Optimizers (Adam)</li>
-  <li>Saving and Loading Models</li>
-  <li>Simple Regression Problem</li>
+<li>Dasar-Dasar Neural Network (Neuron, Bobot, Bias)</li>
+<li>Pelatihan Model dengan Kerugian Kesalahan Kuadrat Rata-Rata</li>
+<li>Optimizers (Adam)</li>
+<li>Saving and Loading Model</li>
+<li>Masalah Regression Sederhana</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
